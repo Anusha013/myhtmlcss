@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+    <style type="text/css">
+
+p{
+    padding: 20px;
+    height: 250px;
+    width: 900px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+    background: center no-repeat;
+    background-color: indigo;
+    border: 5px solid red;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-radius: 10px;
+
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    text-align: left;
+    word-spacing: 5px;
+    text-transform: capitalize;
+
+    font-family: cambria;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+h1{
+    text-align: center;
+    color:black;
+    background-color: lightpink;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px white;
+    border: 2px solid black;
+    padding: 20px;
+}
+h2{
+    text-align: center-left;
+    color: black;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px;
+}
+</style>
+
+</head>
+<body>
+    <h1>PROFILE</h1>
+    <h2>INTRODUCTION</h2>
+    <p>
+        NAME:ANUSHA DSOUZA<br>
+        FROM:SURATKA,MANGALORE<br>
+        EMAIL ID:dsouzaanusha31@gmail.com<br>
+        POST:KAIKAMBA<br>
+        PINCODE:575030
+    </p>
+    <hr>
+    <h2>EDUCATION</h2>
+    <p>
+        .....SECONDARY(10th).......<br>
+        From:Delhi Public School,MRPL <br>
+        Percentage:8.6cgpa<br>
+        Year of completition:2016<br>
+        ....PRE UNIVERSITY(12th)......<br>
+        From:St.Agnes PU College,Mangalore<br>
+        Percentage:87%<br>
+        Year of completition:2018
+    </p>
+
+    <hr></hr>
+    <p>
+        ......ENGINEERING..........<br>
+        A.J. Institute Of Engineering And Technology<br>
+        Kottarachowki Mangalore<br>
+        Computer Science Eng<br>
+        3rd Year<br>
+        6th Sem<br>
+        CGPA:8.81<br>
+        Year of completition:2022
+    </p>
+    <hr></hr>
+
+    <p>
+        .............SKILLS..........<br>
+        C language:Intermediate<br>
+        C++ language:Intermediate<br>
+        Java language:Begginer<br>
+        Python language:Intermediate<br>
+        HTML&CSS:Beginner
+    </p>
+    <hr></hr>
+
+
+</body>
+</html>
